@@ -13,5 +13,6 @@ public class APP extends Application {
     public void onCreate() {
         super.onCreate();
         Utils.init(this);
+        //测试git命令 git add .
     }
 }
