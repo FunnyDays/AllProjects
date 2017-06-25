@@ -1,6 +1,7 @@
 #json 缓存
 
 ## 文件缓存
+1. 直接缓存文件
 ## Memcache, Redis缓存
 
 
